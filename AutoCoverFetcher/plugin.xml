@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+  <name>AutoCoverFetcher</name>
+  <type>edit</type>
+  <author>yebios</author>
+  <description>根据书名从网络获取封面并替换当前 EPUB 封面。</description>
+  <engine>python3.4</engine>
+  <version>1.0</version>
+  <oslist>win</oslist>
+  <autostart>true</autostart>
+  <autoclose>true</autoclose>
+</plugin>
